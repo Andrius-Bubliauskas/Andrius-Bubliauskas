@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrius-Bubliauskas
 - 👀 I’m interested in Chemistry, all things related to Data Science
-- 🌱 I’m currently learning through an IBM course on Coursera
+- 🌱 I’m currently going through an IBM Data Science course
 - 💞️ I’m looking to collaborate on any chemistry/data science-related topic
 - 📫 Reach me on my email andrew4d7@gmail.com
 - 😄 Pronouns: Him
