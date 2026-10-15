@@ -2,3 +2,5 @@
 
 Day job [@Chemify](https://chemify.io/)
 Night job [@Orion-81](https://orion-81.io)
+
+Day and night, I design and use impactful autonomous pipelines.
