@@ -1,1 +1,4 @@
-👋 Hi, I dabble in coding. I want to learn as much as I can about math, computers and data science to push the development of the interface between chemistry, automation and data science [@Chemify](https://chemify.io/).
+👋 Hi! I vibe code, but I rarely actually code. I want to learn as much as I can about applied math, data science, and AI to bridge intuition and actual impact for the sake of humanity.
+
+Day job [@Chemify](https://chemify.io/)
+Night job [@Orion-81](https://orion-81.io)
